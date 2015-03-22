@@ -1,2 +1,4 @@
-* contains a resume specific to devrel position
-* in markdown format  
+### About pro experience
+- description too long for the first two
+- it is repeatitive
+- could be more pushy, less bullshit

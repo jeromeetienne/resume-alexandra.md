@@ -22,18 +22,12 @@
         Organising catering events for customers.
         Implementing and developing a commercial and communication strategy to increase sales.
         Conducting market studies. Organising and translating marketing material.
-        Administrative work (planning and billing)
+        Various Administrative work (planning and billing)
         
-**International Exchange Coordinator at OSEF Tourism** - january 2012 to july 2013 - Part time - Paris, France
+**International Exchange Coordinator at OSEF Tourism** - january 2012 to july 2013 - Part time
         It is an association that organises reciprocal student exchanges.
         Travelling and meeting academic institutions to find partnerships
         Coordinator and Tour guide in Europe and in Canada for our students
-
-------
-
-- description too long for the first two
-- it is repeatitive
-- could be more pushy, less bullshit
 
 ------
 
