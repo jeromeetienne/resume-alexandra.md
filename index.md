@@ -3,7 +3,7 @@
 ## Customer Relations and Marketing
   
 > Email : [andravelilla@gmail.com](mailto:andravelilla@gmail.com)
-> Twitter:[@andraconnect](http://twitter.com/andraconnect)
+> Twitter: [@andraconnect](http://twitter.com/andraconnect)
 
 ------
 
