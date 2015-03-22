@@ -5,3 +5,7 @@ watch: build
 build:
 	# md2resume is from https://github.com/c0bra/markdown-resume-js
 	md2resume index.md
+
+deploy:
+	# push current directory to gihub gh-pages
+	git push -f origin HEAD:gh-pages

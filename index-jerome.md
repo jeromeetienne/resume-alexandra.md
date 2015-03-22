@@ -136,7 +136,6 @@
 
 ### Education
 
-### Education 
 **Master's Degree "Business Management** **2011 to 2012**
         Specialisation: International Tourism and Management
         University Paris 13 Nord- France
