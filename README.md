@@ -1,2 +1,2 @@
-# resume-alexandra.md
-alexandra resume in markdown
+* contains a resume specific to devrel position
+* in markdown format  
