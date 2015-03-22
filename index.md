@@ -42,7 +42,7 @@
         UPEC Paris XII Val de Marne - France
 
 **Bachelor's Degree "International Business and Commerce"** __2007 to 2010__
-        UPEC AEI Paris XII Val de Marne- France 
+        UPEC AEI Paris XII Val de Marne - France 
         International exchange program with University del Norte - Colombia 2005 to 2007
 
 **High School Diploma - Valedictorian** __2005__
